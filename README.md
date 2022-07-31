@@ -1,7 +1,7 @@
 # My reinforecment learning snake demo 
 -----------------------------------------------------------------------------------------------------
 
-This demo shows impressively how the reinforecement algorithm automatically trains the snake in the given environment. After about 100 iterations we see clearly an improvement and the snake learns and gets longer and longer....
+This demo shows impressively how the reinforecement algorithm automatically trains the snake in the given environment. It learns by trial and error. After about 100 iterations we see clearly an improvement and the snake learns and gets longer and longer....
 
 
 ## Installation
@@ -22,7 +22,8 @@ pip3 install torch, pygame, iPython
 ```
 
 
-
+## Note
+You can adjust the speed of training in file game.py, parameter SPEED = 500 (set high in order to see fast results).
 
 
 ## Screenshots
