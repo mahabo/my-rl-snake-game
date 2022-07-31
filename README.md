@@ -1,7 +1,7 @@
 # My reinforecment learning snake demo 
 -----------------------------------------------------------------------------------------------------
 
-This demo shows impressively how the reinforecement algorithm automatically trains the snake in the given environment. It learns by trial and error. After about 100 iterations we see clearly an improvement and the snake learns and gets longer and longer....
+This demo shows impressively how the reinforecement algorithm automatically trains the snake in the given environment. It learns by trial and error. After about 100 iterations we see clearly an improvement and the snake has learned and gets longer and longer....
 
 
 ## Installation
