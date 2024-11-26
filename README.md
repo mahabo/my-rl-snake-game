@@ -17,7 +17,12 @@ source /snakeai/bin/activate
 Install requirements 
 
 ```
-pip3 install torch, pygame, iPython
+pip3 install torch pygame iPython numpy matplotlib
+
+```
+
+```
+python3 myagent.py
 
 ```
 
